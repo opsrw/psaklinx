@@ -1,2 +1,2 @@
 # psaklinx
-Project Software Application Stack (SAK)) / Swiss Army Knife (SAK) ...Whatever you call it. It is an Application SDK Stack and Embedded Software Middleware SDK in C/C++/Python.
+Project Software Application Stack (SAK) / Swiss Army Knife (SAK) ...However you call it. It is an Embedded Firmware Software Applications Stack and Middleware SDK in C/C++/Python.
