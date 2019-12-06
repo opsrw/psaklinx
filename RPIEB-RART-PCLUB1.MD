@@ -45,7 +45,7 @@ Fast Dell OptiPlex PC Intel CPU Lubuntu Linux 4GB 120GB SSD:
 **# Software pre-installed:** GNU ARM C C++ Compiler; GDB Server; python3; python2.7; Python Test Framework: unittest, unittest.mock, pytest, nose2, Robot Framework; Python Wrapper: CFFI, ctypes, ctypesgen
 
 **(3) SDK for ARM SoC Raspberry Pi in C/C++/Python:**
-# Drivers and Examples: 1-Wire, AD_DA, Audio, CAN, Ethernet, GPIO, I2C, Infrared, ISM_Radio, LCD, LED, Light_bus, PWM, RS-485, SPI, Timers, TP-BUS, UART, USB, Video, WDT
+Drivers and Examples: 1-Wire, AD_DA, Audio, CAN, Ethernet, GPIO, I2C, Infrared, ISM_Radio, LCD, LED, Light_bus, PWM, RS-485, SPI, Timers, TP-BUS, UART, USB, Video, WDT
 
 **(4) Software Applications Kit SAK in C/C++/Python:** AWSIoTEC, AzureIoTAC OuroBone
 
